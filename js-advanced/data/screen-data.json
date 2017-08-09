@@ -1,0 +1,30 @@
+[
+    {
+        "manufacturer": "Samsung",
+        "price": 723,
+        "model": "S24F350FH",
+        "panel": "PLS",
+        "size": 24
+    },
+    {
+        "manufacturer": "Samsung",
+        "price": 620,
+        "model": "S22F350FH",
+        "panel": "TN",
+        "size": 21.5
+    },
+    {
+        "manufacturer": "Philips",
+        "price": 1517,
+        "model": "273V5LHAB",
+        "panel": "TFT",
+        "size": 27
+    },
+    {
+        "manufacturer": "Samsung",
+        "price": 2074,
+        "model": "C27F591FD",
+        "panel": "VA",
+        "size": 27
+    }
+]
